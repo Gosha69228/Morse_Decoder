@@ -14,5 +14,6 @@ CTC loss: Используется функция потерь CTC, котора
 ![image](https://github.com/user-attachments/assets/50fad486-8e4a-4136-a2ad-472df33ee23d)
 
 Экземпляр одного из предсказаний в сыром виде:
+
 ![image](https://github.com/user-attachments/assets/13e94f07-31f0-4fc1-8c07-e5731d5a0b1e)
 
